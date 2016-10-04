@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/LoeiFy/Mirror.git"
+    "url": "git@github.com:soulforever/soulforever.github.io.git"
   },
   "keywords": [
     "blog",
@@ -18,9 +18,9 @@
   "author": "LoeiFy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/LoeiFy/Mirror/issues"
+    "url": "https://github.com/soulforever/soulforever.github.io/issues"
   },
-  "homepage": "https://github.com/LoeiFy/Mirror",
+  "homepage": "https://github.com/soulforever/soulforever.github.io",
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-concat": "^2.6.0",
